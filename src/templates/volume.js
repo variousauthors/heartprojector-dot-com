@@ -6,9 +6,10 @@ import { FaPlay } from 'react-icons/lib/fa'
 
 class VolumeTemplate extends React.Component {
 
-  render () {
-    const post = this.props.data.markdownRemark
-    const games = this.props.data.allMarkdownRemark.edges
+  render() {
+    const post = get(this, 'props.data.markdownRemark')
+    const games = get(this, 'props.data.allMarkdownRemark.edges')
+
     const siteTitle = get(this.props, 'data.site.siteMetadata.title')
 
     return (
@@ -18,98 +19,71 @@ class VolumeTemplate extends React.Component {
         <div dangerouslySetInnerHTML={{ __html: post.html }} />
 
         <div>
-          {games.map((game, index) => {
+          {games ? games.map((game, index) => {
             const front = game.node.frontmatter
             console.log(game)
             return (
-              <div key={ index } id="item">
+              <div key={index} id="item">
 
                 <center>
                   <h1>
                     {front.title}
-                    <a href={front.url} target="_blank">
-                      <FaPlay />
+                    <a href={front.url} target="_blank" >
+                      <FaPlay color="white" size="30" />
                     </a>
                   </h1>
 
                   <h2>{front.author}</h2>
                 </center>
 
-                <a href={ front.url } target="_blank">
-                  HELLO
-                  <img className="imgfloatleft" src={ front.icon } />
+                <a href={front.url} target="_blank">
+                  <img
+                    className="imgfloatleft"
+                    src={`${__PATH_PREFIX__}/${front.icon}`}
+                  />
                 </a>
 
-                <div id="textfloatright">
-                  { game.node.html }
-                </div>
+                <div id="textfloatright" dangerouslySetInnerHTML={{ __html: game.node.html }}></div>
               </div>
             )
-          })}
+          }) : null }
         </div>
       </div>
     )
   }
-  /*
-  render() {
-    const post = this.props.data.markdownRemark
-    const siteTitle = get(this.props, 'data.site.siteMetadata.title')
-
-    return (
-      <div>
-            <Helmet title={`${post.frontmatter.title} | ${siteTitle}`} />
-            <h1>{post.frontmatter.title}</h1>
-            <p
-              style={{
-                ...scale(-1 / 5),
-                display: 'block',
-                marginBottom: rhythm(1),
-                marginTop: rhythm(-1),
-              }}
-            >
-              {post.frontmatter.date}
-            </p>
-            <hr
-              style={{
-                marginBottom: rhythm(1),
-              }}
-            />
-            <Bio />
-          </div>
-          )
-  }
-  */
 }
 
 export default VolumeTemplate
 
 export const pageQuery = graphql`
   query VolumeByPath($path: String!, $games: String!) {
-            site {
-          siteMetadata {
-            title
+    site {
+      siteMetadata {
+        title
         author
-          }
+      }
     }
     markdownRemark(frontmatter: {path: {eq: $path } }) {
-            id
+      id
       html
-          frontmatter {
-            title
-          }
-          }
+        frontmatter {
+          title
+        }
+      }
     allMarkdownRemark(filter: {
-            fileAbsolutePath: {
-            regex: $games
+      fileAbsolutePath: {
+        regex: $games
       }
     }) {
-            edges {
-          node {
-            id
+      edges {
+        node {
+          id
           html
           frontmatter {
             title
             author
+            url
+            icon
           }
         }
       }

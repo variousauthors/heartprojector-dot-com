@@ -2,8 +2,8 @@
 title: Ratiator 1
 author: Robert Yang
 url: https://radiatoryang.itch.io/radiator1
-icon: img/V4/heartprojector_vol4_radiator.png
-path: '/volumes/1/games/bob'
+icon: radiator.png
+path: '/volumes/1/games/radiator'
 ---
 
 A game about memories as they age, ferment and in time begin to sour. A doomed attempt to unbreak broken. A bridge built hastily between the worlds of the living and the dead. A love story played out in bathrooms and forests; in art galleries and counselling rooms; in hospital beds, and through a pane of glass.

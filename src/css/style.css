@@ -1,0 +1,213 @@
+html, body {
+	background-color: black;
+}
+
+@font-face {
+	font-family: Bebas;
+	src: url(fonts/BebasNeueBold.otf);
+}
+
+@font-face {
+	font-family: LetterGothic;
+	src: url(fonts/LetterGothicStdBold.ttf);
+}
+
+h1 {
+	font-size: 25pt;
+	font-family: "Bebas", sans-serif;
+    letter-spacing: 2px;
+	color: white;
+}
+
+h2 {
+	font-size: 15pt;
+	font-family: "Bebas", sans-serif;
+    letter-spacing: 2px;
+	color: #777;
+}
+
+p {
+	font-size: 10pt;
+	font-family: "LetterGothic", sans-serif;
+  color: #777;	
+  line-height: 1.2;
+}
+
+a {
+	color: white;
+	font-size: 10pt;
+	font-family: "LetterGothic", sans-serif;
+	color: white;
+}
+
+img.backgroundimage {
+	width: 100%;
+	margin: 0 auto;
+	left: -3%;
+	position: relative;
+}
+
+#container{
+	background-color: black;
+	width: 100%;
+	margin: 0 auto;
+	z-index: 0;
+	position: relative;
+}
+
+#content{
+	text-align: justify;
+	width: 75%;
+	min-width: 800px;
+	margin: 0 auto;
+
+}
+
+#item{
+	width: 100%;
+	height: 400px;
+}
+
+.imgfloatleft {
+	float: left;
+	width: 20%;
+	padding-top: 15px;
+}
+
+#textfloatright {
+	float: right;
+	width: 75%;
+}
+
+#mailchimp{
+	top: 0px;
+	min-width: 50%;
+	margin: 0 auto;
+	position: relative;
+	z-index: 1;
+}
+
+#spacer {
+	height: 250px;
+}
+
+#mc_embed_signup{
+	clear:left;
+	font-size: 15pt;
+	font-family: "LetterGothic", sans-serif;
+	color: white;
+	width:100%;
+}
+
+#mc_embed_signup form {
+	text-align:center;
+	padding:10px 0 10px 0;
+}
+
+.mc-field-group { /* positions input field horizontally */
+	display: inline-block;
+} 
+
+#mc_embed_signup input.email {
+	font-family: "LetterGothic", sans-serif;
+	font-size: 13px;
+	border: 1px solid #FFC1FE;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+	color: #FFC1FE;
+	background-color: black;
+	box-sizing:border-box;
+	height:32px;
+	padding: 0px 0.4em;
+	display: inline-block;
+	margin: 0;
+	width:350px;
+	vertical-align:top;}
+
+#mc_embed_signup label {
+	display:block;
+	font-size:16px;
+}
+
+#mc_embed_signup .clear {
+	display: inline-block;} /* positions button horizontally in line with input */
+
+#mc_embed_signup .button {
+	font-family: "LetterGothic", sans-serif;
+	font-size: 13px;
+	border: none;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+	letter-spacing: .03em;
+	color: black;
+	background-color: #FFC1FE;
+	box-sizing:border-box;
+	height:32px;
+	line-height:32px;
+	padding:0 18px;
+	display: inline-block;
+	margin: 0;
+	transition: all 0.23s ease-in-out 0s;
+}
+
+#mc_embed_signup .button:hover {
+	background-color:#777;
+	cursor:pointer;
+}
+
+#mc_embed_signup div#mce-responses {
+	float:left;
+	top:-1.4em;
+	padding:0em .5em 0em .5em;
+	overflow:hidden;
+	width:90%;
+	margin: 0 5%;
+	clear: both;}
+
+#mc_embed_signup div.response {
+	margin:1em 0;
+	padding:1em .5em .5em 0;
+	font-weight:bold;
+	float:left;
+	top:-1.5em;
+	z-index:1;
+	width:80%;}
+
+#mc_embed_signup #mce-error-response {
+	display:none;}
+
+#mc_embed_signup #mce-success-response {
+	color:#529214;
+	display:none;}
+
+#mc_embed_signup label.error {
+	display:block;
+	float:none;
+	width:auto;
+	margin-left:1.05em;
+	text-align:left;
+	padding:.5em 0;}
+
+@media (max-width: 480px) {
+	#container {top:75px;}
+    #mc_embed_signup input.email {width:100%; margin-bottom:5px;}
+    #mc_embed_signup .clear {display: block; width: 100% }
+    #mc_embed_signup .button {width: 100%; margin:0; }
+}
+
+*:focus {
+    outline: none;
+}
+
+input, textarea {
+  -webkit-appearance: none;
+  -webkit-border-radius: 0;
+}
+
+#externalicons {
+	width: 75px;
+	margin: 0px auto;
+	position: relative;
+}
