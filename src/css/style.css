@@ -40,6 +40,14 @@ a {
 	color: white;
 }
 
+a.arrow
+{
+  position: relative;
+  bottom: 7.5px;
+  text-decoration: none;
+  box-shadow: none!important;
+}
+
 img.backgroundimage {
 	width: 100%;
 	margin: 0 auto;

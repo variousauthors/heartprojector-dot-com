@@ -28,7 +28,7 @@ class VolumeTemplate extends React.Component {
                 <center>
                   <h1>
                     {front.title}
-                    <a href={front.url} target="_blank" >
+                    <a className="arrow" href={front.url} target="_blank" >
                       <FaPlay color="white" size="30" />
                     </a>
                   </h1>

@@ -1,6 +1,6 @@
 ---
-title: 'Volume 1'
-path: '/volumes/1'
+title: 'Volume 4'
+path: '/volumes/4'
 ---
 
 Volume 4 invited guest curator Robert Yang to guide us through a selection of works that encouraged us to wander and drift through them. These are games that invite us to reflect on and blur the lines between the functional and the useless. Rather than focusing on “winning”, “solving” or “beating” these games, we discover new meanings of play through them.

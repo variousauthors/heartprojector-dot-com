@@ -1,5 +1,5 @@
 ---
-title: Ratiator 1
+title: Radiator 1
 author: Robert Yang
 url: https://radiatoryang.itch.io/radiator1
 icon: radiator.png
