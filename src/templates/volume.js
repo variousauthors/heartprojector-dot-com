@@ -39,7 +39,7 @@ class VolumeTemplate extends React.Component {
                 <a href={front.url} target="_blank">
                   <img
                     className="imgfloatleft"
-                    src={`${__PATH_PREFIX__}/${front.icon}`}
+                    src={`${__PATH_PREFIX__}/${front.path}/${front.icon}`}
                   />
                 </a>
 
