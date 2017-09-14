@@ -1,7 +1,7 @@
 ---
 title: Joy Exhibition
 author: Strangethinkg
-url: 
+url: https://strangethink.itch.io/joy-exhibition
 icon: arcadeJoyExhibition.png 
 path: '/volumes/1/games/'
 ---

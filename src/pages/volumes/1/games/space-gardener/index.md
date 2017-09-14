@@ -1,7 +1,7 @@
 ---
 title: Space Gardener
 author: Like, A Hundred Bears
-url: 
+url: https://like100bears.itch.io/space-gardener
 icon: arcadeSpaceGardener.png
 path: '/volumes/1/games/'
 ---

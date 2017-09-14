@@ -1,7 +1,7 @@
 ---
 title: Homesickened
 author: Snapman
-url: 
+url: https://snapman.itch.io/homesickened
 icon: arcadeHomesickened.png
 path: '/volumes/1/games/'
 ---

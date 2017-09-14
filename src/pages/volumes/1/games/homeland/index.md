@@ -1,8 +1,8 @@
 ---
 title: Homeland
 author: Rook
-url: 
-icon: homeland.png 
+url: https://rooksfeather.itch.io/homeland
+icon: arcadeHomeland.png 
 path: '/volumes/1/games/'
 ---
 

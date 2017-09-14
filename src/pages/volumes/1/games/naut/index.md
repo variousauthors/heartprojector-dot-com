@@ -1,7 +1,7 @@
 ---
 title: Naut
 author: Lucie Viatgé, Tom Victor, Titouan Millet
-url: 
+url: https://titouanmillet.itch.io/naut
 icon: arcadeNaut.png 
 path: '/volumes/1/games/'
 ---

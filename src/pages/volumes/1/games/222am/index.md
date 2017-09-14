@@ -1,7 +1,7 @@
 ---
 title: 2:22 am
 author: Albert Lai
-url: 
+url: https://umbrella-isle.itch.io/222am 
 icon: arcade222am.png
 path: '/volumes/1/games/'
 ---

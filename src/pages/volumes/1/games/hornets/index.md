@@ -1,7 +1,7 @@
 ---
 title: Hornets
 author: Kitty Horrorshow
-url: 
+url: https://kittyhorrorshow.itch.io/hornets 
 icon: arcadeHornets.png
 path: '/volumes/1/games/'
 ---
