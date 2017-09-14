@@ -21,7 +21,7 @@ class VolumeTemplate extends React.Component {
         <div>
           {games ? games.map((game, index) => {
             const front = game.node.frontmatter
-            console.log(game)
+
             return (
               <div key={index} id="item">
 

@@ -1,5 +1,6 @@
 ---
 title: 'Volume 4'
+summary: 'Volume 4 was curated by Robert Yang'
 path: '/volumes/4'
 ---
 
