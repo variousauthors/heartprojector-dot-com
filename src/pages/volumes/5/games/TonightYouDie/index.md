@@ -1,7 +1,7 @@
 ---
 title: Tonight You Die
 author: Jack Squires & Grypt
-url: 
+url: https://jsqrs.itch.io/tonightyoudie
 icon: arcade_feb_2017_TonightYouDie.png 
 path: '/volumes/5/games/tonight-you-die'
 ---

@@ -1,7 +1,7 @@
 ---
 title: World of Horror
 author: Panstaz
-url: 
+url: https://panstas.itch.io/world-of-horror
 icon: arcade_feb_2017_WorldOfHorror.png 
 path: '/volumes/5/games/world-of-horror'
 ---

@@ -1,7 +1,7 @@
 ---
 title: Upsolom
 author: Granada
-url: 
+url: https://granada.itch.io/upsolom
 icon: arcade_july_2016_Upsolom.png 
 path: '/volumes/3/games/upsolom'
 ---

@@ -1,7 +1,7 @@
 ---
 title: 2sWitches
 author: Arielle Grimes 
-url: 
+url: https://ariellegrimes.itch.io/2switches
 icon: arcade_april_2016_Witches.png
 path: '/volumes/2/games/2switches'
 ---

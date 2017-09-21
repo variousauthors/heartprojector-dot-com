@@ -11,7 +11,7 @@ export class SocialMedia extends React.Component {
 
     return (
       <div id="externalicons">
-        <a href="https://twitter.com/heart_projector" target="_blank">
+        <a className="no-box-shadow" href="https://twitter.com/heart_projector" target="_blank">
           <FaTwitter color='#FFC1FE' size='25' />
         </a>
         &nbsp;

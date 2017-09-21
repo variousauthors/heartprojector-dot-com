@@ -1,7 +1,7 @@
 ---
 title: Proteus
 author: Ed Key & David Kanaga
-url: 
+url: https://twistedtree.itch.io/proteus
 icon: arcade_july_2016_Proteus.png 
 path: '/volumes/3/games/proteus'
 ---

@@ -1,7 +1,7 @@
 ---
 title: LIM
 author: Merritt Kopas
-url: 
+url: https://a-dire-fawn.itch.io/lim
 icon: arcade_july_2016_LIM.png 
 path: '/volumes/3/games/lim'
 ---

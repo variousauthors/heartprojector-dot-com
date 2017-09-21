@@ -1,7 +1,7 @@
 ---
 title: Judith
 author: Terry Cavanagh & Stephen Lavelle
-url: 
+url: http://distractionware.com/blog/2009/04/judith/
 icon: arcade_feb_2017_Judith.png 
 path: '/volumes/5/games/judith'
 ---

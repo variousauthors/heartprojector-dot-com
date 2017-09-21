@@ -1,7 +1,7 @@
 ---
 title: Oracle
 author: ceMelusine
-url: 
+url: https://cemelusine.itch.io/east-van-ep
 icon: arcade_april_2016_Oracle.png
 path: '/volumes/2/games/oracle'
 ---

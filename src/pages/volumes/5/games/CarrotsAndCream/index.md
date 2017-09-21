@@ -1,7 +1,7 @@
 ---
 title: Carrots and Cream
 author: Aergia
-url: 
+url: https://aergia.itch.io/carrots-and-cream
 icon: arcade_feb_2017_CarrotsAndCream.png 
 path: '/volumes/5/games/carrots-and-cream'
 ---

@@ -1,7 +1,7 @@
 ---
 title: The Uncle Who Works For Nintendo
 author: Michael Lutz
-url: 
+url: https://ztul.itch.io/the-uncle-who-works-for-nintendo 
 icon: arcade_feb_2017_Uncle.png 
 path: '/volumes/5/games/uncle'
 ---

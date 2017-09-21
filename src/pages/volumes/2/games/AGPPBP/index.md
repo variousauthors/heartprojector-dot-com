@@ -1,7 +1,7 @@
 ---
 title: A Ghost Porno, Page By Page
 author: Takorii
-url: 
+url: https://tak.itch.io/agppbp
 icon: arcade_april_2016_AGPPBP.png
 path: '/volumes/2/games/agppbp'
 ---

@@ -18,3 +18,8 @@ knowledge of the human race and their computer entertainment.
 Katie Rose Pipkin is a drawing and language artist from the woods outside of Austin, Texas. They
 produce printed material as books, chapbooks, and zines, as well as digital work in software,
 bots, and games. They also make drawings by hand, on paper.
+
+[Jump Scares for your Desktop][1] / [Mirror Lake][0]
+
+[0]: https://katierose.itch.io/mirrorlake
+[1]: https://alienmelon.itch.io/scaryghostsoft

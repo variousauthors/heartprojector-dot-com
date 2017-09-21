@@ -1,7 +1,7 @@
 ---
 title: V R 1
 author: Pippin Barr
-url: 
+url: https://www.pippinbarr.com/2016/05/19/v-r-1/
 icon: arcade_july_2016_v-r-1.png 
 path: '/volumes/3/games/v-r-1'
 ---

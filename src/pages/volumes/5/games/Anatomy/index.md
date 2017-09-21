@@ -1,7 +1,7 @@
 ---
 title: Anatomy
 author: Kitty Horrorshow
-url: 
+url: https://kittyhorrorshow.itch.io/anatomy
 icon: arcade_feb_2017_Anatomy.png 
 path: '/volumes/5/games/anatomy'
 ---

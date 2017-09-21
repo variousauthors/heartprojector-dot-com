@@ -1,7 +1,7 @@
 ---
 title: Beautiful/Ugly
 author: Owen Bell, Ansh Patel, Karina Popp, Reynaldo Vargas & Tony Kao 
-url: 
+url: https://tafkaf.itch.io/beautiful-ugly
 icon: arcade_april_2016_BeautifulUgly.png
 path: '/volumes/2/games/beautiful-ugly'
 ---

@@ -10,7 +10,7 @@ export class MailChimp extends React.Component {
             method="post" 
             id="mc-embedded-subscribe-form" 
             name="mc-embedded-subscribe-form" 
-            className="validate" 
+            className="validate no-margin no-box-shadow" 
             target="_blank" 
             noValidate="" >
 

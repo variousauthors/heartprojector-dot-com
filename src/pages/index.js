@@ -35,6 +35,10 @@ class BlogIndex extends React.Component {
             }
           })}
 
+          <div className='margin-top'>
+            <p className='no-margin'>Sign up for our mailing list if you're interested in recieving details of when and where our next event will be.</p>
+          </div>
+
           <MailChimp />
           <SocialMedia />
         </div>

@@ -1,7 +1,7 @@
 ---
 title: Tectr
 author: Claris Cyarron, Lucas J.W. Johnson, Ken Glass & Megan Furesz
-url: 
+url: https://silverstring.itch.io/tectr
 icon: arcade_july_2016_Tectr.png 
 path: '/volumes/3/games/tectr'
 ---

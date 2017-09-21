@@ -1,7 +1,7 @@
 ---
 title: CONDOR
 author: Connor Sherlock
-url: 
+url: https://connor-sherlock.itch.io/condor
 icon: arcade_july_2016_CONDOR.png 
 path: '/volumes/3/games/condor'
 ---

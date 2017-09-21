@@ -1,7 +1,7 @@
 ---
 title: TattleTail
 author: Ben Espesito
-url: 
+url: http://store.steampowered.com/app/568090/Tattletail/
 icon: arcade_feb_2017_TattleTail.png 
 path: '/volumes/5/games/tattle-tail'
 ---

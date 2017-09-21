@@ -1,7 +1,7 @@
 ---
 title: P.T.
 author: Hideo Kojima et al
-url: 
+url: https://en.wikipedia.org/wiki/P.T._(video_game)
 icon: arcade_feb_2017_PT.png 
 path: '/volumes/5/games/pt'
 ---

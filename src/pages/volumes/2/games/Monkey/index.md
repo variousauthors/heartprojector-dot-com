@@ -1,7 +1,7 @@
 ---
 title: Monkey Fortunetell
 author: Nathalie Lawhead & Rachel Simone Weil 
-url: 
+url: http://fortunetell.alienmelon.com/
 icon: arcade_april_2016_Monkey.png
 path: '/volumes/2/games/monkey'
 ---

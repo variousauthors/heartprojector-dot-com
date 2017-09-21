@@ -1,7 +1,7 @@
 ---
 title: Strawberry Cubes
 author: Loren Schmidt 
-url: 
+url: https://lorenschmidt.itch.io/strawberrycubes
 icon: arcade_july_2016_StrawberryCubes.png 
 path: '/volumes/3/games/strawberry-cubes'
 ---

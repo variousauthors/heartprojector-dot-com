@@ -1,7 +1,7 @@
 ---
 title: Gardenarium
 author: Paloma Dawkins & Kyler Kelly (Music By Ylang Ylang)
-url: 
+url: https://palgal.itch.io/gardenarium-the-aftermath
 icon: arcade_july_2016_Gardenarium.png 
 path: '/volumes/3/games/gardenarium'
 ---
