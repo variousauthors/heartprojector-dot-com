@@ -79,7 +79,6 @@ img.backgroundimage {
 .imgfloatleft {
 	float: left;
 	width: 20%;
-	padding-top: 15px;
 }
 
 #textfloatright {
