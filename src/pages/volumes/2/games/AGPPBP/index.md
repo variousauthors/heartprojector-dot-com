@@ -3,7 +3,7 @@ title: A Ghost Porno, Page By Page
 author: Takorii
 url: 
 icon: arcade_april_2016_AGPPBP.png
-path: '/volumes/2/games/'
+path: '/volumes/2/games/agppbp'
 ---
 AGPPBP is a short ghost story about receiving text messages from
 beyond the grave. Your lover has sent you an ebook; it’s one of

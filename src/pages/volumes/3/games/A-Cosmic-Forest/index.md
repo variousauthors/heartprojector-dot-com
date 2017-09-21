@@ -3,7 +3,7 @@ title: A Cosmic Forest
 author: Titouan Millet 
 url: 
 icon: arcade_july_2016_A-Cosmic-Forest.png 
-path: '/volumes/3/games/'
+path: '/volumes/3/games/a-cosmic-forest'
 ---
 This space is hung on a logic completely alien to our physical existence, proudly
 foregrounding its digital materiality and origin. The ‘walls’ formed by vertical

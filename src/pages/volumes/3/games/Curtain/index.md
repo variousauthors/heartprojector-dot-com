@@ -3,7 +3,7 @@ title: Curtain
 author: Dreamfeel (Music By Frank Nora And Rations)
 url: 
 icon: arcade_july_2016_Curtain.png 
-path: '/volumes/3/games/'
+path: '/volumes/3/games/curtain'
 ---
 Trigger Warning: Emotional Abuse
 

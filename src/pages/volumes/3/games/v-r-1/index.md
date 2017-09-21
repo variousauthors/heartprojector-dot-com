@@ -3,7 +3,7 @@ title: V R 1
 author: Pippin Barr
 url: 
 icon: arcade_july_2016_v-r-1.png 
-path: '/volumes/3/games/'
+path: '/volumes/3/games/v-r-1'
 ---
 This game is a digital examination of Gregor Schneider's iconic work "Totes Haus u r", and
 specifically the sparse cell inside it known as "u r 1". Schneider's work involved the almost

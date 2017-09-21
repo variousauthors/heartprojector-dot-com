@@ -3,7 +3,7 @@ title: Naut
 author: Lucie Viatgé, Tom Victor, Titouan Millet
 url: https://titouanmillet.itch.io/naut
 icon: arcadeNaut.png 
-path: '/volumes/1/games/'
+path: '/volumes/1/games/naut'
 ---
 
 Is there life on Mars? Wander around, drive through

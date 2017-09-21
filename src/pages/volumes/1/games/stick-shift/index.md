@@ -3,7 +3,7 @@ title: Stick Shift
 author: Robert Yang
 url: https://radiatoryang.itch.io/radiator2
 icon: arcadeStickShift.png
-path: '/volumes/1/games/'
+path: '/volumes/1/games/stick-shift'
 ---
 
 Stick Shift is an autoerotic night-driving game about pleasuring a gay car. This short game, along with its sister games Hurt Me Plenty and Succulent, tries to expand eroticism in games beyond a cutscene.

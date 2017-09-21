@@ -3,7 +3,7 @@ title: SABBAT
 author: Eva Problems
 url: 
 icon: arcade_april_2016_SABBAT.png
-path: '/volumes/2/games/'
+path: '/volumes/2/games/sabbat'
 ---
 Oh, little witchdumpling, you are not ready for this night. SABBAT is a fevered
 prayer to a dark god, motivated by despair and anxiety. The game begins with a bloody

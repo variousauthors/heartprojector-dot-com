@@ -3,7 +3,7 @@ title: Beautiful/Ugly
 author: Owen Bell, Ansh Patel, Karina Popp, Reynaldo Vargas & Tony Kao 
 url: 
 icon: arcade_april_2016_BeautifulUgly.png
-path: '/volumes/2/games/'
+path: '/volumes/2/games/beautiful-ugly'
 ---
 Point your face at the computer and prepare to receive a collection of collage and noise.
 Beautiful Ugly is coming apart at the seams, unravelling as you play it. You will return to

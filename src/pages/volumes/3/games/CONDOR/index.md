@@ -3,7 +3,7 @@ title: CONDOR
 author: Connor Sherlock
 url: 
 icon: arcade_july_2016_CONDOR.png 
-path: '/volumes/3/games/'
+path: '/volumes/3/games/condor'
 ---
 Cyborg, you are tasked with hacking nodes and traversing the vertiginous
 skyline of NeoQusqo. You have been equipped with augmented legs, a jetpack,

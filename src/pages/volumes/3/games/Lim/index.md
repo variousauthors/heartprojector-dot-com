@@ -3,7 +3,7 @@ title: LIM
 author: Merritt Kopas
 url: 
 icon: arcade_july_2016_LIM.png 
-path: '/volumes/3/games/'
+path: '/volumes/3/games/lim'
 ---
 “Lim is a game about violence. About the violence of standing out, and even more about the
 violence of blending in.” - Games for Change

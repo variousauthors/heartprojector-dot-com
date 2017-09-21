@@ -3,7 +3,7 @@ title: Monkey Fortunetell
 author: Nathalie Lawhead & Rachel Simone Weil 
 url: 
 icon: arcade_april_2016_Monkey.png
-path: '/volumes/2/games/'
+path: '/volumes/2/games/monkey'
 ---
 Whether it be by reading the yarrow stalks, laying out tarot cards, or letting the
 blood of vermin, we have always enacted rituals that give us insight into this

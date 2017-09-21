@@ -3,7 +3,7 @@ title: 2:22 am
 author: Albert Lai
 url: https://umbrella-isle.itch.io/222am 
 icon: arcade222am.png
-path: '/volumes/1/games/'
+path: '/volumes/1/games/222am'
 ---
 
 2:22am is a shifting montage of scenes, some interactive, some not.

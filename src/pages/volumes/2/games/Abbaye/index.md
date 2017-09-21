@@ -3,7 +3,7 @@ title: L'Abbeye des Mortes
 author: Locomalito & GRYZOR87 
 url: 
 icon: arcade_april_2016_Abbaye.png 
-path: '/volumes/2/games/'
+path: '/volumes/2/games/abbeye'
 ---
 Certainly our most traditional offering. If you are of a certain age and from a certain
 place, you may find yourself oddly compelled by Abbaye. Otherwise you are likely to find it

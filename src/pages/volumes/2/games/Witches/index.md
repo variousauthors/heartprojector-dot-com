@@ -3,7 +3,7 @@ title: 2sWitches
 author: Arielle Grimes 
 url: 
 icon: arcade_april_2016_Witches.png
-path: '/volumes/2/games/'
+path: '/volumes/2/games/2switches'
 ---
 Work together with a friend to conjure the trans dyke separatist
 dimension! One player rides the outer rim, defending the ritual from

@@ -3,7 +3,7 @@ title: Homeland
 author: Rook
 url: https://rooksfeather.itch.io/homeland
 icon: arcadeHomeland.png 
-path: '/volumes/1/games/'
+path: '/volumes/1/games/homeland'
 ---
 
 Homeland is a short, narrative game created over a few days, and inspired by

@@ -3,7 +3,7 @@ title: Space Gardener
 author: Like, A Hundred Bears
 url: https://like100bears.itch.io/space-gardener
 icon: arcadeSpaceGardener.png
-path: '/volumes/1/games/'
+path: '/volumes/1/games/space-gardener'
 ---
 
 Space Gardener is a relaxing little experience about tending a garden on a rock

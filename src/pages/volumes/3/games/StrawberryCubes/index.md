@@ -3,7 +3,7 @@ title: Strawberry Cubes
 author: Loren Schmidt 
 url: 
 icon: arcade_july_2016_StrawberryCubes.png 
-path: '/volumes/3/games/'
+path: '/volumes/3/games/strawberry-cubes'
 ---
 Press any key to explore possibilities. Plant seeds if you like.
 

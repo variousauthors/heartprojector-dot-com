@@ -3,7 +3,7 @@ title: Proteus
 author: Ed Key & David Kanaga
 url: 
 icon: arcade_july_2016_Proteus.png 
-path: '/volumes/3/games/'
+path: '/volumes/3/games/proteus'
 ---
 A game of audio-visual exploration, discovery, and contemplation.
 

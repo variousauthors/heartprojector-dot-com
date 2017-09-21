@@ -3,7 +3,7 @@ title: Tectr
 author: Claris Cyarron, Lucas J.W. Johnson, Ken Glass & Megan Furesz
 url: 
 icon: arcade_july_2016_Tectr.png 
-path: '/volumes/3/games/'
+path: '/volumes/3/games/tectr'
 ---
 Tectr, the dating app for real estates, is a game about thirsty architecture where
 buildings want you inside them. Find your matches, see if you're compatible, and hook

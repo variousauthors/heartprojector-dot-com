@@ -10,7 +10,7 @@ class Template extends React.Component {
     const { location, children } = this.props
 
     return (
-      <Container id="content">
+      <Container>
         {children()}
       </Container>
     )

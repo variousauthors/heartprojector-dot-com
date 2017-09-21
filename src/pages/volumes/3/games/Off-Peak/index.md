@@ -3,7 +3,7 @@ title: Off-Peak
 author: Cosmo D (With Music By Archie Pelago) 
 url: 
 icon: arcade_july_2016_Off-Peak.png 
-path: '/volumes/3/games/'
+path: '/volumes/3/games/off-peak'
 ---
 “City wide subway service suspended. Consider transportation alternatives.
 Have a great weekend."

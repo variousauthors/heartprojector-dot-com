@@ -3,7 +3,7 @@ title: Upsolom
 author: Granada
 url: 
 icon: arcade_july_2016_Upsolom.png 
-path: '/volumes/3/games/'
+path: '/volumes/3/games/upsolom'
 ---
 Enter your mechsuit and deploy. Drift silently onward, patrolling the rooftops of a
 perfectly orderly city in search of signs.

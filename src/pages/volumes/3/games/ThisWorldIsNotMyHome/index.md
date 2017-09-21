@@ -3,7 +3,7 @@ title: This World Is Not My Home
 author: Brenda Neotenomie & Porpentine Charity Heartscape 
 url: 
 icon: arcade_july_2016_ThisWorldIsNotMyHome.png 
-path: '/volumes/3/games/'
+path: '/volumes/3/games/this-world-is-not-my-home'
 ---
 Before consuming this ALTERNATIVE ART EVENT, please enjoy this guided relaxation
 program, generously provided by the Madison Obry Monroe (MOM) Corporation.

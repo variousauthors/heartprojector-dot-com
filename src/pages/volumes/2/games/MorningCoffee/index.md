@@ -3,7 +3,7 @@ title: Morning Coffee
 author: Charli Elwonger & Jocelyn Reyes 
 url: 
 icon: arcade_april_2016_MorningCoffee.png
-path: '/volumes/2/games/'
+path: '/volumes/2/games/morning-coffee'
 ---
 Rituals prepare us. When we pray, or read our horoscope, or meditate, we get
 the sense of having set something straight. Afterwards we are more prepared to

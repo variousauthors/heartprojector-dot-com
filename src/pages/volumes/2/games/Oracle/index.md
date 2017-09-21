@@ -3,7 +3,7 @@ title: Oracle
 author: ceMelusine
 url: 
 icon: arcade_april_2016_Oracle.png
-path: '/volumes/2/games/'
+path: '/volumes/2/games/oracle'
 ---
 The Oracle at Analara sits in a forest and conveys wisdom to seekers. You may
 notice that the Oracle appears to receive warriors and kings, like MacBeth’s

@@ -48,6 +48,10 @@ a.arrow
   box-shadow: none!important;
 }
 
+.cover {
+  width: 100%
+}
+
 img.backgroundimage {
 	width: 100%;
 	margin: 0 auto;

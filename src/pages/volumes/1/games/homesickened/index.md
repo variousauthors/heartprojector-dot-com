@@ -3,7 +3,7 @@ title: Homesickened
 author: Snapman
 url: https://snapman.itch.io/homesickened
 icon: arcadeHomesickened.png
-path: '/volumes/1/games/'
+path: '/volumes/1/games/homesickened'
 ---
 
 You can't go home again. Except that you can. But you don't

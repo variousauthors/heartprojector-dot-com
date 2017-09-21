@@ -3,7 +3,7 @@ title: Hornets
 author: Kitty Horrorshow
 url: https://kittyhorrorshow.itch.io/hornets 
 icon: arcadeHornets.png
-path: '/volumes/1/games/'
+path: '/volumes/1/games/hornets'
 ---
 
 Rhiannon Blackwood, better known as Kitty Horrorshow, is an independent game developer crow-goddess witchqueen. Her games, most often 3D and first-person, tend to emphasize exploration, architecture, atmosphere, horror and the uncanny, the occult, and the use of space for narrative and poetry. She'd love you to follow her on twitter, @kittyhorrorshow.

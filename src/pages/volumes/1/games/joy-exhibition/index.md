@@ -3,7 +3,7 @@ title: Joy Exhibition
 author: Strangethinkg
 url: https://strangethink.itch.io/joy-exhibition
 icon: arcadeJoyExhibition.png 
-path: '/volumes/1/games/'
+path: '/volumes/1/games/joy-exhibition'
 ---
 
 Joy Exhbition is a game about learning to communicate with a mute alien

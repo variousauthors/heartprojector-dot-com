@@ -3,7 +3,7 @@ title: Gardenarium
 author: Paloma Dawkins & Kyler Kelly (Music By Ylang Ylang)
 url: 
 icon: arcade_july_2016_Gardenarium.png 
-path: '/volumes/3/games/'
+path: '/volumes/3/games/gardenarium'
 ---
 You land as a stranger, picking up trash and making the things grow. Climb to the top
 of the cloud and learn how to transpose the nature of space/self.
