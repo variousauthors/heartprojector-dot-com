@@ -2,7 +2,7 @@
 title: LIM
 author: Merritt Kopas
 url: https://a-dire-fawn.itch.io/lim
-icon: arcade_july_2016_LIM.png 
+icon: arcade_july_2016_Lim.png 
 path: '/volumes/3/games/lim'
 ---
 “Lim is a game about violence. About the violence of standing out, and even more about the

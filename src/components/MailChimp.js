@@ -12,11 +12,20 @@ export class MailChimp extends React.Component {
             name="mc-embedded-subscribe-form" 
             className="validate no-margin no-box-shadow" 
             target="_blank" 
-            noValidate="" >
+            noValidate=""
+          >
 
             <div id="mc_embed_signup_scroll">
               <label htmlFor="mce-EMAIL"></label>
-              <input value="" name="EMAIL" className="email" id="mce-EMAIL" placeholder="email address" required="" type="email" />
+              <input
+                defaultValue=""
+                name="EMAIL"
+                className="email"
+                id="mce-EMAIL"
+                placeholder="email address"
+                required=""
+                type="email"
+              />
               &nbsp;
 
                 { /* real people should not fill this in and expect good things - do not remove this or risk form bot signups */}

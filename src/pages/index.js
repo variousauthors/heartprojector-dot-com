@@ -22,6 +22,7 @@ class BlogIndex extends React.Component {
           {posts.map(post => {
             if (post.node.path !== '/404/') {
               const title = get(post, 'node.frontmatter.title') || post.node.path
+            console.log(post.node.frontmatter.path)
               return (
                 <div key={post.node.frontmatter.path}>
                   <Link
@@ -61,9 +62,16 @@ export const pageQuery = graphql`
       }
     }
     allMarkdownRemark(filter: {
-      fileAbsolutePath: {
-        regex: "/volumes/"
+      frontmatter:{
+        summary: {
+          regex: ""
+        }
       }
+    },
+    sort: {
+      fields: [
+        fileAbsolutePath
+      ]
     }) {
       edges {
         node {
